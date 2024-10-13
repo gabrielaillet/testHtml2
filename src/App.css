@@ -1,0 +1,27 @@
+body {
+  font-family: monospace;
+  background-color: #0b3c5d;
+  color: #ffffff;
+  padding: 20px;
+}
+
+#console {
+  width: 80%;
+  height: 300px;
+  background-color: #001f3f;
+  border: 1px solid #666;
+  padding: 20px;
+  margin-bottom: 20px;
+  white-space: pre-wrap;
+  overflow-y: auto;
+}
+
+input[type="text"] {
+  width: 80%;
+  padding: 10px;
+  font-family: monospace;
+}
+
+button {
+  padding: 10px;
+}
